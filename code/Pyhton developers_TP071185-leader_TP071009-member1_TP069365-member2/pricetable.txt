@@ -1,0 +1,1 @@
+{"below1kg": {"ZoneA": 8.0, "ZoneB": 9.0, "ZoneC": 10.0, "ZoneD": 11.0, "ZoneE": 12.0}, "1kgto3kg": {"ZoneA": 16.0, "ZoneB": 18.0, "ZoneC": 20.0, "ZoneD": 22.0, "ZoneE": 22.0}, "over3kg": {"ZoneA": 0.0, "ZoneB": 0.0, "ZoneC": 0.0, "ZoneD": 0.0, "ZoneE": 0.0}}
